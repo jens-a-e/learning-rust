@@ -1,0 +1,4 @@
+[package]
+name = "dining-philosphers"
+version = "0.1.0"
+authors = ["jens <jens@lea.io>"]
